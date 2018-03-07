@@ -1,3 +1,0 @@
-6.6)
-
-- La orden -e de los echo es para poder interpretar las barras invertidas como caracteres.
